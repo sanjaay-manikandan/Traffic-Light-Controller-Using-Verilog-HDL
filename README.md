@@ -85,6 +85,12 @@ module traffic_light_controller (
     end
 endmodule
 
+OUTPUT : 
+
+![Traffic controller experiment](https://github.com/user-attachments/assets/2d935658-3711-426b-bf77-83488821edfb)
+
+
+
 Testbench for Traffic Light Controller
 
 // traffic_light_controller_tb.v
